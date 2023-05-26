@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DormitoryManagementSystem.C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DormitoryManagementSystem.Shared", "DormitoryManagementSystem.Shared\DormitoryManagementSystem.Shared.csproj", "{3AFB988C-A61C-42F3-A528-E8326C9E4D27}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DormitoryManagementSystem.Test", "DormitoryManagementSystem.Test\DormitoryManagementSystem.Test.csproj", "{DAF7D9C5-77EA-4880-961D-FA6F531AAFCB}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{3AFB988C-A61C-42F3-A528-E8326C9E4D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AFB988C-A61C-42F3-A528-E8326C9E4D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AFB988C-A61C-42F3-A528-E8326C9E4D27}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DAF7D9C5-77EA-4880-961D-FA6F531AAFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAF7D9C5-77EA-4880-961D-FA6F531AAFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAF7D9C5-77EA-4880-961D-FA6F531AAFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAF7D9C5-77EA-4880-961D-FA6F531AAFCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

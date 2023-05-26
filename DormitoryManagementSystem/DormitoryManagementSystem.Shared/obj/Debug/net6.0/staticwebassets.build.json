@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ndq/bw2TTl5oCXrV2i9wqIrH2uOtGvRtevEr3zNLXlY=",
+  "Hash": "jtgWW1UpmEkP2vKPCXeVc4lKNoBzGh9IS9FG8VG3Mg4=",
   "Source": "DormitoryManagementSystem.Shared",
   "BasePath": "_content/DormitoryManagementSystem.Shared",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DormitoryManagementSystem.Shared\\wwwroot",
       "Source": "DormitoryManagementSystem.Shared",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "Pattern": "**"
     }
@@ -156,7 +156,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\css\\bootstrap.blazor.bundle.min.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "css/bootstrap.blazor.bundle.min.css",
       "AssetKind": "All",
@@ -173,7 +173,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\css\\motronic.min.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "css/motronic.min.css",
       "AssetKind": "All",
@@ -190,7 +190,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\js\\bootstrap.blazor.bundle.min.js",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "js/bootstrap.blazor.bundle.min.js",
       "AssetKind": "All",
@@ -207,7 +207,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\lib\\summernote\\font\\summernote.eot",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "lib/summernote/font/summernote.eot",
       "AssetKind": "All",
@@ -224,7 +224,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\lib\\summernote\\font\\summernote.ttf",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "lib/summernote/font/summernote.ttf",
       "AssetKind": "All",
@@ -241,7 +241,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\lib\\summernote\\font\\summernote.woff",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "lib/summernote/font/summernote.woff",
       "AssetKind": "All",
@@ -258,7 +258,7 @@
       "Identity": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\contentFiles\\any\\net6.0\\wwwroot\\lib\\summernote\\font\\summernote.woff2",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "lib/summernote/font/summernote.woff2",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "C:\\Users\\2021\\.nuget\\packages\\bootstrapblazor\\6.5.0\\staticwebassets\\lib\\summernote\\font\\summernote.woff2"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DormitoryManagementSystem.Shared.styles.css",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DormitoryManagementSystem.Shared.styles.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "DormitoryManagementSystem.Shared.styles.css",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DormitoryManagementSystem.Shared.styles.css"
+      "OriginalItemSpec": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DormitoryManagementSystem.Shared.styles.css"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DormitoryManagementSystem.Shared.bundle.scp.css",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DormitoryManagementSystem.Shared.bundle.scp.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "DormitoryManagementSystem.Shared.bundle.scp.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DormitoryManagementSystem.Shared.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DormitoryManagementSystem.Shared.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\css\\loading.css",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\css\\loading.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "css/loading.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\loading.css"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\css\\site.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.css",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.css",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "font/iconfont.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconfont.css"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.eot",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.eot",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "font/iconfont.eot",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconfont.eot"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.svg",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.svg",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "font/iconfont.svg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconfont.svg"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.ttf",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.ttf",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "font/iconfont.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.woff",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.woff",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "font/iconfont.woff",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconfont.woff"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.woff2",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\font\\iconfont.woff2",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "font/iconfont.woff2",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\font\\iconfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\images\\logo.png",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\js\\common.js",
+      "Identity": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\js\\common.js",
       "SourceId": "DormitoryManagementSystem.Shared",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-Pro\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\2021\\Desktop\\GitHub\\DMS-final\\DormitoryManagementSystem\\DormitoryManagementSystem.Shared\\wwwroot\\",
       "BasePath": "_content/DormitoryManagementSystem.Shared",
       "RelativePath": "js/common.js",
       "AssetKind": "All",

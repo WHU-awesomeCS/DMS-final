@@ -21,6 +21,17 @@ namespace DormitoryManagementSystem.DataAccess
 
         public DbSet<FrameworkWorkstage> FrameworkWorkstages { get; set; }
 
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Dormitory> Dormitories { get; set; }
+        public DbSet<Room> Rooms { get; set; }
+        public DbSet<Staff> Staffs { get; set; }
+        public DbSet<Teacher> Teachers { get; set; }
+        public DbSet<Account> Accounts { get; set; }
+        public DbSet<RepairRequest> RepairRequests { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
+        public DbSet<Visitor> Visitors { get; set; }
+        public DbSet<LeaveApplication> LeaveApplications { get; set; }
+
 
         public DataContext(CS cs)
              : base(cs)

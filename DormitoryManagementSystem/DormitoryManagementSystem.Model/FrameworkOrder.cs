@@ -32,6 +32,9 @@ namespace DormitoryManagementSystem.Model
         [Display(Name = "访客身份证号")]
         [Required(ErrorMessage = "{0}是必填项")]
         public string FProductItemId { get; set; }
+
+
+
         [Display(Name = "访客状态")]
         [Required(ErrorMessage = "{0}是必填项")]
         public FOrderStatus FOrderStatus { get; set; }
