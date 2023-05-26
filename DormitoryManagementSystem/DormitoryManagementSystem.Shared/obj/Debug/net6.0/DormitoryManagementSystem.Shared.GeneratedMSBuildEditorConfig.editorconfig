@@ -1,0 +1,285 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DormitoryManagementSystem.Shared
+build_property.RootNamespace = DormitoryManagementSystem.Shared
+build_property.ProjectDir = C:\Users\2021\Desktop\GitHub\DMS-Pro\DormitoryManagementSystem\DormitoryManagementSystem.Shared\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\2021\Desktop\GitHub\DMS-Pro\DormitoryManagementSystem\DormitoryManagementSystem.Shared
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/Index_en.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhfZW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/Index_zh.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhfemgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductItem/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RJdGVtXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductItem/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RJdGVtXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductItem/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RJdGVtXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductItem/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RJdGVtXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductItem/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RJdGVtXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductType/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RUeXBlXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductType/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RUeXBlXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductType/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RUeXBlXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductType/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RUeXBlXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/查询/FrameworkProductType/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc5p+l6K+iXEZyYW1ld29ya1Byb2R1Y3RUeXBlXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkLine/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtMaW5lXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkLine/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtMaW5lXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkLine/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtMaW5lXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkLine/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtMaW5lXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkLine/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtMaW5lXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkstage/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtzdGFnZVxDcmVhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkstage/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtzdGFnZVxEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkstage/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtzdGFnZVxFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkstage/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtzdGFnZVxJbXBvcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/申请/FrameworkWorkstage/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc55Sz6K+3XEZyYW1ld29ya1dvcmtzdGFnZVxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/ActionLog/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEFjdGlvbkxvZ1xEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/ActionLog/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEFjdGlvbkxvZ1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/DataPrivilege/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXERhdGFQcml2aWxlZ2VcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/DataPrivilege/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXERhdGFQcml2aWxlZ2VcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/DataPrivilege/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXERhdGFQcml2aWxlZ2VcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/DataPrivilege/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXERhdGFQcml2aWxlZ2VcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkGroup/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya0dyb3VwXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkGroup/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya0dyb3VwXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkGroup/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya0dyb3VwXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkGroup/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya0dyb3VwXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkGroup/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya0dyb3VwXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkMenu/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya01lbnVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkMenu/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya01lbnVcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkMenu/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya01lbnVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkMenu/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya01lbnVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkRole/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1JvbGVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkRole/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1JvbGVcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkRole/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1JvbGVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkRole/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1JvbGVcSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkRole/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1JvbGVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkRole/PageFunction.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1JvbGVcUGFnZUZ1bmN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkUser/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1VzZXJcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkUser/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1VzZXJcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkUser/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1VzZXJcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkUser/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1VzZXJcSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkUser/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1VzZXJcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/管理/FrameworkUser/Password.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc566h55CGXEZyYW1ld29ya1VzZXJcUGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/访客/FrameworkOrder/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc6K6/5a6iXEZyYW1ld29ya09yZGVyXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/访客/FrameworkOrder/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc6K6/5a6iXEZyYW1ld29ya09yZGVyXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/访客/FrameworkOrder/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc6K6/5a6iXEZyYW1ld29ya09yZGVyXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/访客/FrameworkOrder/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc6K6/5a6iXEZyYW1ld29ya09yZGVyXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Pages/访客/FrameworkOrder/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNc6K6/5a6iXEZyYW1ld29ya09yZGVyXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Shared/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Shared/Outside.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE91dHNpZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Shared/Password.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhc3N3b3JkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/WtmBlazorUtils/WTDateRange.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1REYXRlUmFuZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/WtmBlazorUtils/WTSearchPanel.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RTZWFyY2hQYW5lbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/WtmBlazorUtils/WTSimpleUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RTaW1wbGVVcGxvYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/WtmBlazorUtils/WTUploadFile.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RVcGxvYWRGaWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/WtmBlazorUtils/WTUploadImage.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RVcGxvYWRJbWFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Shared/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-8wydqeakr2
+
+[C:/Users/2021/Desktop/GitHub/DMS-Pro/DormitoryManagementSystem/DormitoryManagementSystem.Shared/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mym2ymtj79

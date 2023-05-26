@@ -1,0 +1,99 @@
+<div class="index">
+    <div class="welcome container">
+        <div class="form-inline">
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    <div class="welcome-header">
+                        <h4>
+                            DMS，全称<code>
+                                DormitoryManagementSystem
+                                DMS
+                            </code>
+                        </h4>
+                        <div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-12 col-lg-6">
+                    <div class="welcome-header">
+                        <h4>
+                            &nbsp;
+                        </h4>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-inline">
+            <div class="row">
+                <div class="col-12">
+                    <div class="welcome-footer">
+                        <div class="d-flex flex-wrap q-link">
+                            <div>
+                                <TabLink Url="/_Admin/FrameworkUser/Index" Text="用户">
+                                    <i class="fa fa-user fa-3"></i>
+                                    <p class="link-ctx">用户</p>
+                                </TabLink>
+                            </div>
+                            <div>
+                                <TabLink Url="/_Admin/FrameworkRole" Text="角色">
+                                    <i class="fa fa-clipboard fa-3"></i>
+                                    <p class="link-ctx">角色</p>
+                                </TabLink>
+
+                            </div>
+                            <div>
+                                <TabLink Url="/_Admin/FrameworkMenu" Text="菜单">
+                                    <i class="fa fa-bars fa-3"></i>
+                                    <p class="link-ctx">菜单</p>
+                                </TabLink>
+                            </div>
+                            <div>
+                                <TabLink Url="/_Admin/FrameworkGroup" Text="用户组">
+                                    <i class="fa fa-users fa-3"></i>
+                                    <p class="link-ctx">用户组</p>
+                                </TabLink>
+                            </div>
+                            <div>
+                                <TabLink Url="/_Admin/DataPrivilege" Text="数据权限">
+                                    <i class="fa fa-shield fa-3"></i>
+                                    <p class="link-ctx">数据访问</p>
+                                </TabLink>
+                            </div>
+                            <div>
+                                <TabLink Url="/_Admin/ActionLog" Text="日志">
+                                    <i class="fa fa-database fa-3"></i>
+                                    <p class="link-ctx">日志</p>
+                                </TabLink>
+                            </div>
+                            <div>
+                                <a target="_blank" href="https://wtmdoc.walkingtec.cn/" :underline="false">
+                                    <i class="fa fa-file-text fa-3"></i>
+                                    <p class="link-ctx">项目文档</p>
+                                </a>
+                            </div>
+                            <div>
+                                <a target="_blank" href="/_codegen?ui=blazor" :underline="false">
+                                    <i class="fa fa-cogs fa-3"></i>
+                                    <p class="link-ctx">代码生成</p>
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+@code {
+
+    [Parameter]
+    public Index.githubpoco model { get; set; } = new Index.githubpoco();
+
+   }

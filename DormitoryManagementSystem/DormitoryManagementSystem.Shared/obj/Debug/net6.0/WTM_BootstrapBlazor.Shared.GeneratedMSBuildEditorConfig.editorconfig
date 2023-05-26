@@ -1,0 +1,285 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WTM_BootstrapBlazor.Shared
+build_property.RootNamespace = WTM_BootstrapBlazor.Shared
+build_property.ProjectDir = C:\Users\2021\Desktop\DormitoryManagementSystem\WTM_BootstrapBlazor.Shared\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\2021\Desktop\DormitoryManagementSystem\WTM_BootstrapBlazor.Shared
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/Index_en.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhfZW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/Index_zh.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhfemgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/ActionLog/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEFjdGlvbkxvZ1xEZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/ActionLog/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEFjdGlvbkxvZ1xJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/DataPrivilege/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXERhdGFQcml2aWxlZ2VcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/DataPrivilege/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXERhdGFQcml2aWxlZ2VcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/DataPrivilege/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXERhdGFQcml2aWxlZ2VcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/DataPrivilege/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXERhdGFQcml2aWxlZ2VcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkGroup/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya0dyb3VwXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkGroup/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya0dyb3VwXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkGroup/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya0dyb3VwXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkGroup/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya0dyb3VwXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkGroup/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya0dyb3VwXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkMenu/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya01lbnVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkMenu/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya01lbnVcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkMenu/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya01lbnVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkMenu/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya01lbnVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkRole/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1JvbGVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkRole/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1JvbGVcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkRole/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1JvbGVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkRole/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1JvbGVcSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkRole/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1JvbGVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkRole/PageFunction.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1JvbGVcUGFnZUZ1bmN0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkUser/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1VzZXJcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkUser/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1VzZXJcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkUser/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1VzZXJcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkUser/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1VzZXJcSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkUser/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1VzZXJcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Admin/FrameworkUser/Password.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0FkbWluXEZyYW1ld29ya1VzZXJcUGFzc3dvcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Order/FrameworkOrder/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX09yZGVyXEZyYW1ld29ya09yZGVyXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Order/FrameworkOrder/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX09yZGVyXEZyYW1ld29ya09yZGVyXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Order/FrameworkOrder/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX09yZGVyXEZyYW1ld29ya09yZGVyXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Order/FrameworkOrder/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX09yZGVyXEZyYW1ld29ya09yZGVyXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Order/FrameworkOrder/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX09yZGVyXEZyYW1ld29ya09yZGVyXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductItem/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdEl0ZW1cQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductItem/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdEl0ZW1cRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductItem/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdEl0ZW1cRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductItem/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdEl0ZW1cSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductItem/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdEl0ZW1cSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductType/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdFR5cGVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductType/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdFR5cGVcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductType/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdFR5cGVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductType/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdFR5cGVcSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Product/FrameworkProductType/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1Byb2R1Y3RcRnJhbWV3b3JrUHJvZHVjdFR5cGVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkLine/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya0xpbmVcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkLine/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya0xpbmVcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkLine/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya0xpbmVcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkLine/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya0xpbmVcSW1wb3J0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkLine/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya0xpbmVcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkstage/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya3N0YWdlXENyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkstage/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya3N0YWdlXERldGFpbHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkstage/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya3N0YWdlXEVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkstage/Import.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya3N0YWdlXEltcG9ydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Pages/_Work/FrameworkWorkstage/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1dvcmtcRnJhbWV3b3JrV29ya3N0YWdlXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Shared/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Shared/Outside.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE91dHNpZGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Shared/Password.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhc3N3b3JkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/WtmBlazorUtils/WTDateRange.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1REYXRlUmFuZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/WtmBlazorUtils/WTSearchPanel.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RTZWFyY2hQYW5lbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/WtmBlazorUtils/WTSimpleUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RTaW1wbGVVcGxvYWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/WtmBlazorUtils/WTUploadFile.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RVcGxvYWRGaWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/WtmBlazorUtils/WTUploadImage.razor]
+build_metadata.AdditionalFiles.TargetPath = V3RtQmxhem9yVXRpbHNcV1RVcGxvYWRJbWFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Shared/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-7qqrde58xk
+
+[C:/Users/2021/Desktop/DormitoryManagementSystem/WTM_BootstrapBlazor.Shared/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-f9zk06m3q1

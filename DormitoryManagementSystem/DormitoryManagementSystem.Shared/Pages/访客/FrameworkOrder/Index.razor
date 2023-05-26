@@ -1,0 +1,159 @@
+﻿@page "/访客/FrameworkOrder"
+@using DormitoryManagementSystem.ViewModel.访客.FrameworkOrderVMs;
+@inherits BasePage
+@attribute [ActionDescription("访客信息", "DormitoryManagementSystem.Controllers,FrameworkOrder")]
+
+<WTSearchPanel OnSearch="@DoSearch">
+    <ValidateForm Model="@SearchModel">
+        <Row ItemsPerRow="ItemsPerRow.Three" RowType="RowType.Inline">
+
+            <BootstrapInput @bind-Value="@SearchModel.FProductionCode"  />
+            <BootstrapInput @bind-Value="@SearchModel.FProductItemId"  />
+            <Select @bind-Value="@SearchModel.FOrderStatus"  PlaceHolder="@WtmBlazor.Localizer["Sys.All"]"/>
+            <WTDateRange @bind-Value="@SearchModel.FPlanTime"  />
+            <WTDateRange @bind-Value="@SearchModel.FFinishTime"  />
+        </Row>
+    </ValidateForm>
+</WTSearchPanel>
+
+
+
+<Table @ref="dataTable" TItem="FrameworkOrder_View" OnQueryAsync="OnSearch" IsPagination="true" IsStriped="true" IsBordered="true" ShowRefresh="false"
+       ShowToolbar="true" IsMultipleSelect="true" ShowExtendButtons="true" ShowDefaultButtons="false" style="margin-top:10px;">
+    <TableColumns>
+
+        <TableColumn @bind-Field="@context.FProductionCode"  />
+        <TableColumn @bind-Field="@context.FProductItemId"  />
+        <TableColumn @bind-Field="@context.FOrderStatus"  />
+        <TableColumn @bind-Field="@context.FPlanNumber"  />
+        <TableColumn @bind-Field="@context.FPlanTime" FormatString="yyyy-MM-dd HH: mm: ss" />
+        <TableColumn @bind-Field="@context.FFinishTime" FormatString="yyyy-MM-dd HH: mm: ss" />
+        <TableColumn @bind-Field="@context.FOkNumber"  />
+        <TableColumn @bind-Field="@context.FNgNumber"  />
+        <TableColumn @bind-Field="@context.FWorkingNumber"  />
+        <TableColumn @bind-Field="@context.FScrapNumber"  />
+    </TableColumns>
+    <TableToolbarTemplate>
+        @if (IsAccessable("/api/FrameworkOrder/Add"))
+        {
+            <TableToolbarButton TItem="FrameworkOrder_View" Color="Color.Primary" Icon="fa fa-fw fa-plus" Text="@WtmBlazor.Localizer["Sys.Create"]" OnClickCallback="OnCreateClick" />
+        }
+        @if (IsAccessable("/api/FrameworkOrder/BatchDelete"))
+        {
+            <TableToolbarPopconfirmButton TItem="FrameworkOrder_View" Color="Color.Primary"
+                                          Icon="fa fa-fw fa-trash-o" Text="@WtmBlazor.Localizer["Sys.BatchDelete"]"
+                                          OnConfirm="@OnBatchDeleteClick" Content="@WtmBlazor.Localizer["Sys.BatchDeleteConfirm"]" CloseButtonText="@WtmBlazor.Localizer["Sys.Close"]"
+                                          ConfirmButtonText="@WtmBlazor.Localizer["Sys.BatchDelete"]" ConfirmButtonColor="Color.Danger" />
+        }
+        
+        @if (IsAccessable("/api/FrameworkOrder/Import"))
+        {
+            <TableToolbarButton TItem="FrameworkOrder_View" Color="Color.Primary" Icon="fa fa-fw fa-upload" Text="@WtmBlazor.Localizer["Sys.Import"]" OnClickCallback="@OnImportClick" />
+        }
+        @if (IsAccessable("/api/FrameworkOrder/ExportExcel"))
+        {
+            <TableToolbarButton TItem="FrameworkOrder_View" Color="Color.Primary" Icon="fa fa-fw fa-download" Text="@WtmBlazor.Localizer["Sys.Export"]" OnClickCallback="@OnExportClick" IsAsync="true" />
+        }
+    </TableToolbarTemplate>
+    <RowButtonTemplate>
+        <div style="padding-right:10px;">
+            @if (IsAccessable("/api/FrameworkOrder/Edit"))
+            {
+                <TableCellButton Size="Size.ExtraSmall" Color="Color.Success" Icon="fa fa-edit" Text="@WtmBlazor.Localizer["Sys.Edit"]" OnClick="() => OnEditClick(context)" />
+            }
+            @if (IsAccessable("/api/FrameworkOrder/{id}"))
+            {
+                <TableCellButton Size="Size.ExtraSmall" Color="Color.Info" Icon="fa fa-info" Text="@WtmBlazor.Localizer["Sys.Details"]" OnClick="()=>OnDetailsClick(context)" />
+            }
+            @if (IsAccessable("/api/FrameworkOrder/BatchDelete"))
+            {
+                <PopConfirmButton Icon="fa fa-trash-o" Text="@WtmBlazor.Localizer["Sys.Delete"]" OnConfirm="() => OnDeleteClick(context)" Color="Color.Danger" Size="Size.ExtraSmall"
+                                  Content="@WtmBlazor.Localizer["Sys.DeleteConfirm"]" CloseButtonText="@WtmBlazor.Localizer["Sys.Close"]" ConfirmButtonText="@WtmBlazor.Localizer["Sys.Delete"]" ConfirmButtonColor="Color.Danger" />
+            }
+        </div>
+    </RowButtonTemplate>
+</Table>
+
+@code{
+
+    private FrameworkOrderSearcher SearchModel = new FrameworkOrderSearcher();
+    private Table<FrameworkOrder_View> dataTable;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        await base.OnInitializedAsync();
+    }
+
+    private async Task<QueryData<FrameworkOrder_View>> OnSearch(QueryPageOptions opts)
+    {
+        return await StartSearch<FrameworkOrder_View>("/api/FrameworkOrder/Search", SearchModel, opts);
+    }
+
+    private void DoSearch()
+    {
+        dataTable.QueryAsync();
+    }
+
+    private async Task OnCreateClick(IEnumerable<FrameworkOrder_View> items)
+    {
+        if (await OpenDialog<Create>(WtmBlazor.Localizer["Sys.Create"]) == DialogResult.Yes)
+        {
+            await dataTable.QueryAsync();
+        }
+    }
+
+    private async Task OnEditClick(FrameworkOrder_View item)
+    {
+        if (await OpenDialog<Edit>(WtmBlazor.Localizer["Sys.Edit"], x => x.id == item.ID.ToString()) == DialogResult.Yes)
+        {
+            await dataTable.QueryAsync();
+        }
+    }
+
+    private async Task OnDetailsClick(FrameworkOrder_View item)
+    {
+        await OpenDialog<Details>(WtmBlazor.Localizer["Sys.Details"], x => x.id == item.ID.ToString());
+    }
+
+    private async Task OnBatchDeleteClick()
+    {
+        if (dataTable.SelectedRows?.Any() == true)
+        {
+            await PostsData(dataTable.SelectedRows.Select(x => x.ID).ToList(), $"/api/FrameworkOrder/batchdelete", (s) => WtmBlazor.Localizer["Sys.BatchDeleteSuccess", s]);
+            await dataTable.QueryAsync();
+        }
+        else
+        {
+            await WtmBlazor.Toast.Information(WtmBlazor.Localizer["Sys.Info"], WtmBlazor.Localizer["Sys.SelectOneRowMin"]);
+        }
+    }
+
+    private async Task OnDeleteClick(FrameworkOrder_View item)
+    {
+        await PostsData(new List<string> { item.ID.ToString() }, $"/api/FrameworkOrder/batchdelete", (s) => "Sys.OprationSuccess");
+        await dataTable.QueryAsync();
+    }
+
+
+    private async Task OnExportClick(IEnumerable<FrameworkOrder_View> items)
+    {
+        if (dataTable.SelectedRows?.Any() == true)
+        {
+            await Download("/api/FrameworkOrder/ExportExcelByIds", dataTable.SelectedRows.Select(x => x.ID.ToString()).ToList());
+        }
+        else
+        {
+            await Download("/api/FrameworkOrder/ExportExcel", SearchModel);
+        }
+    }
+    private async Task OnImportClick(IEnumerable<FrameworkOrder_View> items)
+    {
+        if (await OpenDialog<Import>(WtmBlazor.Localizer["Sys.Import"]) == DialogResult.Yes)
+        {
+            await dataTable.QueryAsync();
+        }
+    }
+
+}

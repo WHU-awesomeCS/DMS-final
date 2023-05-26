@@ -1,0 +1,423 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor\\WTM_BootstrapBlazor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Client\\WTM_BootstrapBlazor.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Client\\WTM_BootstrapBlazor.Client.csproj",
+        "projectName": "WTM_BootstrapBlazor.Client",
+        "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Client\\WTM_BootstrapBlazor.Client.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.DataAccess\\WTM_BootstrapBlazor.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.DataAccess\\WTM_BootstrapBlazor.DataAccess.csproj",
+        "projectName": "WTM_BootstrapBlazor.DataAccess",
+        "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.DataAccess\\WTM_BootstrapBlazor.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj",
+        "projectName": "WTM_BootstrapBlazor.Model",
+        "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "WalkingTec.Mvvm.Core": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj",
+        "projectName": "WTM_BootstrapBlazor.Shared",
+        "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.ViewModel\\WTM_BootstrapBlazor.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.ViewModel\\WTM_BootstrapBlazor.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BootstrapBlazor": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "BootstrapBlazor.Chart": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "BootstrapBlazor.Markdown": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.ViewModel\\WTM_BootstrapBlazor.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.ViewModel\\WTM_BootstrapBlazor.ViewModel.csproj",
+        "projectName": "WTM_BootstrapBlazor.ViewModel",
+        "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.ViewModel\\WTM_BootstrapBlazor.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Model\\WTM_BootstrapBlazor.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor\\WTM_BootstrapBlazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor\\WTM_BootstrapBlazor.csproj",
+        "projectName": "WTM_BootstrapBlazor",
+        "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor\\WTM_BootstrapBlazor.csproj",
+        "packagesPath": "C:\\Users\\2021\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Client\\WTM_BootstrapBlazor.Client.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Client\\WTM_BootstrapBlazor.Client.csproj"
+              },
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.DataAccess\\WTM_BootstrapBlazor.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.DataAccess\\WTM_BootstrapBlazor.DataAccess.csproj"
+              },
+              "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj": {
+                "projectPath": "C:\\Users\\2021\\Desktop\\DormitoryManagementSystem\\WTM_BootstrapBlazor.Shared\\WTM_BootstrapBlazor.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "WalkingTec.Mvvm.Mvc": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
